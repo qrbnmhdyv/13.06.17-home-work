@@ -1,0 +1,5 @@
+imperative programming emirli program dili demekdir. 
+Meselen Biz bir robot yaradiriq  ve ona emirler veririk. 
+Robot  bizim verdiyimiz emrlere gore hereket etmeye bashlayir. 
+danishdigimiz bu sisteme imperative programming deyilir...
+Imperative programming C, C++ veya JAVA-ni gostermek mumkundur

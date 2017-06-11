@@ -1,0 +1,14 @@
+Object Oriented Programming ad?ndan da ayd?n olacag? kimi obyekt ?sasl? bir proqramlasd?rma texnikas? diye bilerik.Daha acacaq olsaq; 
+bizl?r programlar?m?zda kodlar yazark?n b?zi zamanlar olur ki eyni kodu basqa bir yerd? istifad? gerkiyor v? erinmeden,
+ ruhdan dusm?d?n t?krar yaz?rd?q. Art?q bel? bir sey yoxdur. Kodlar?m?z?n Derece ic?risind? yazaraq daha rahat hala g?tiririk.
+ dusunun; 1 m?kt?b var, m?kt?b ic?rsind? onlarla sinif, sinifin ic?risind? onlarla sagird. Indi burada;
+ m?kt?b = layih?miz, sinif = class, sagird = obyekt. 
+Bir sagird? catmaq ucun ?n sur?tli yol n?dir dey? sorussam, 
+y?qin ki, ham?n?z, m?kt?b ic?risind?ki sinifl?r?, oradan da sagird? dey?rsiniz.
+ V? bu sagirdin Riyaziyyat, azerbaycan dili kimi d?rsl?rini isleyebildigi kimi eyni sagirdi basqa yerd? istifade ederek 
+proqramlasd?rma d?rsin? d? gir? bil?r. Q?sacas? sagird y?ni nesnemiz h?r yerd? rahatl?qla h?r?k?t ed? bilir
+
+Object-Obyekt
+Class- sinif
+Polymorphism-poliforizm
+Abstraction-abstraksiya
